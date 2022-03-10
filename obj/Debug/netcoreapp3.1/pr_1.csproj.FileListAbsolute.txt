@@ -1,0 +1,14 @@
+C:\Users\Pasha\source\repos\pr_1\bin\Debug\netcoreapp3.1\pr_1.exe
+C:\Users\Pasha\source\repos\pr_1\bin\Debug\netcoreapp3.1\pr_1.deps.json
+C:\Users\Pasha\source\repos\pr_1\bin\Debug\netcoreapp3.1\pr_1.runtimeconfig.json
+C:\Users\Pasha\source\repos\pr_1\bin\Debug\netcoreapp3.1\pr_1.runtimeconfig.dev.json
+C:\Users\Pasha\source\repos\pr_1\bin\Debug\netcoreapp3.1\pr_1.dll
+C:\Users\Pasha\source\repos\pr_1\bin\Debug\netcoreapp3.1\pr_1.pdb
+C:\Users\Pasha\source\repos\pr_1\obj\Debug\netcoreapp3.1\pr_1.csproj.AssemblyReference.cache
+C:\Users\Pasha\source\repos\pr_1\obj\Debug\netcoreapp3.1\pr_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasha\source\repos\pr_1\obj\Debug\netcoreapp3.1\pr_1.AssemblyInfoInputs.cache
+C:\Users\Pasha\source\repos\pr_1\obj\Debug\netcoreapp3.1\pr_1.AssemblyInfo.cs
+C:\Users\Pasha\source\repos\pr_1\obj\Debug\netcoreapp3.1\pr_1.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\pr_1\obj\Debug\netcoreapp3.1\pr_1.dll
+C:\Users\Pasha\source\repos\pr_1\obj\Debug\netcoreapp3.1\pr_1.pdb
+C:\Users\Pasha\source\repos\pr_1\obj\Debug\netcoreapp3.1\pr_1.genruntimeconfig.cache
